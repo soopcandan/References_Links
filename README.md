@@ -14,6 +14,7 @@
 
 - __Binder__ https://mybinder.org/ - Requires Git Account
 - __Google Colab__ https://colab.research.google.com/ Requires Google account
+- __Regex101__ https://regex101.com Quick and detailed regex pattern testing
 
 
 ## Python Integrated Development Environment (IDE) Packages
