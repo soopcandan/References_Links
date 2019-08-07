@@ -3,11 +3,14 @@
 - __Udemy__ https://www.udemy.com/courses/search/?src=ukw&q=python (Pay per course, ~10-12 USD per)
 - __FreeCodeCamp__ https://www.freecodecamp.org/ (Completely Free)
 - __DataCamp__ https://www.datacamp.com/ (Free to a point)
+- __GeeksforGeeks__ https://www.geeksforgeeks.org/python-programming-language/ (Free- although account creation is shoved down throat)
+- __LearnRegexEasyWay (Git)__ https://github.com/soopcandan/learn-regex
 - more to follow...
 
-## Useful References
+## Useful References and Package Resources
 
 - __Python Standard Documentation__ https://docs.python.org/
+- __Python Package Index (Pypi)__ https://pypi.org/ Choose from over 100,000 packages to install
 - more to follow...
 
 ## Web-based Testing and Envioronments
