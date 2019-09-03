@@ -5,6 +5,7 @@
 - __DataCamp__ https://www.datacamp.com/ (Free to a point)
 - __GeeksforGeeks__ https://www.geeksforgeeks.org/python-programming-language/ (Free- although account creation is shoved down throat)
 - __LearnRegexEasyWay (Git)__ https://github.com/soopcandan/learn-regex
+- __Corey Schafer (YouTube)__ https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 - more to follow...
 
 ## Useful References and Package Resources
